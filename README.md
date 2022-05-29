@@ -2,9 +2,9 @@
 # Project Part of REDI -Python Class 2022
 
 # Pre-requirements
- 1. SQL Server Express 2019 or higher version \
- 2.python Connector for the SQL server \
- 3. Banking User \
- 4. Restore Baking Database from Database folder \
+ 1. SQL Server Express 2019 or higher version 
+ 2. python Connector for the SQL server 
+ 3. Banking User 
+ 4. Restore Baking Database from Database folder 
   
   
